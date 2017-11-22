@@ -1,2 +1,2 @@
-# Collaborative_Recommender
+# Collaborative Recommender
 A basic collaborative recommender
